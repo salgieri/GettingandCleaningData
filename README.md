@@ -31,13 +31,16 @@ How is this Project Submission Organsized?
 This project consists of the following R and Markdown files:
 
 1. README.md - This file. Contains the description of the project
-2. RunProject.r - Core script used to run the project, generate the project output and Codebook
+2. run_analysis.r - Core script used to run the project, generate the project output and Codebook
 3. RunProject.Rmd - Core project code that performs the required data manipulation and generates core Project output (ProjectResult.md)
-4. RunCodebook.Rmd - Used to generate Codebook.md
-5. ProjectResult.md - Output from the core project data manipulation, explaining the steps taken, data manipulated and desired output.
+4. codebook.Rmd - Used to generate Codebook.md
 
 Core Outputs
 ------------
-1. TidyHumanActivityRecognitionUsingSmartyphones.csv - Tidied data set as required by the Project Activities as described above
+1. RunProject.md - Output from the core project data manipulation, explaining the steps taken, data manipulated and desired output.
+1. RunProject.html - HTML Conversion of output from the core project data manipulation.
 2. codebook.md - Required codebook explaining the resultant data set.
+2. codebook.html - HTML conversion of codebook.md.
+1. AggregateDatasetHumanActivityRecognitionUsingSmartphones.txt - Tidied data set as required by the Project Activities as described above
+
 
