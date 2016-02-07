@@ -32,7 +32,7 @@ This project consists of the following R and Markdown files:
 
 1. README.md - This file. Contains the description of the project
 2. run_analysis.r - Core script used to run the project, generate the project output and Codebook
-3. RunProject.Rmd - Core project code that performs the required data manipulation and generates core Project output (ProjectResult.md)
+3. RunProject.Rmd - Core project code that performs the required data manipulation and generates core Project output (RunProject.md)
 4. codebook.Rmd - Used to generate Codebook.md
 
 Core Outputs
